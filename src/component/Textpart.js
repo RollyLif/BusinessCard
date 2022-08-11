@@ -1,4 +1,3 @@
-import '../App.css';
 import Principal from './Principal.js';
 import {GrMailOption} from 'react-icons/gr';
 

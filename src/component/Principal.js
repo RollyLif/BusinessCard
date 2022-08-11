@@ -1,4 +1,4 @@
-import '../App.css';
+
 
 function Principal() {
   return (
