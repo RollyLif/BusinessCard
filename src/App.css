@@ -1,14 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400&display=swap');
+
+.textpart{
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Inter";
+  width: 317px;
+  height: 399px;
+  background-color: #1A1B21;
+  color:white;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+h1{
+  font-size: 25px;
+  margin-bottom: 0px;
+}
+
+h3{
+  font-size: 12.8px;
+  color : #F3BF99;
+  margin-top: 0px;
+  margin-bottom: 2px;
+}
+
+a{
+  font-size: 10.24px;
+  color: #F5F5F5;
+}
+
+button{
+  margin-left: auto;
+  margin-right: auto;
+  width : 247px;
+  height : 34px;
+  border-radius: 6px;
+  margin-top: 12px;
+  margin-bottom: 6px;
+  border: 1px solid black;
+  font-size: 12.8px;
+}
+
+.appli{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  display: flex;
+  background-color: #161619;
+  width: 317px;
+  height: 64px;
+  font-size: 30px;
+  color: #918E9B;
+  text-align: center;
+  justify-content: space-between;
+  border-radius : 0px 0px 10px 10px;
+}
 img{
+  border-radius :10px 10px 0px 0px;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
   width: 317px;
   height: 317px;
 }
 
 .main{
+  margin-left: auto;
+  margin-right: auto;
   width: 247px;
   height: 201px;
+  text-align: left;
 }
 
+h2{
+  font-size: 16px;
+}
+
+p{
+  font-size: 10.24px;
+  margin-bottom: 5px;
+}
 .card{
   display: flex;
   flex-direction: column;
+  text-align: center;
+  width: 550px;
+  height: 868px;
+  background-color: #23252C;
+  margin : auto;
+}
+.icone{
+  margin: auto;
 }

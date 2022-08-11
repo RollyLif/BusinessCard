@@ -2,12 +2,12 @@ import {AiFillTwitterSquare, AiFillFacebook, AiFillInstagram, AiFillLinkedin, Ai
 
 function Contact(){
     return(
-        <div>
-            <AiFillTwitterSquare />
-            <AiFillFacebook />
-            <AiFillInstagram />
-            <AiFillLinkedin />
-            <AiFillGithub />
+        <div className = "appli">
+            <AiFillTwitterSquare className = "icone"/>
+            <AiFillFacebook className = "icone"/>
+            <AiFillInstagram className = "icone"/>
+            <AiFillLinkedin className = "icone"/>
+            <AiFillGithub className = "icone"/>
         </div>
     );
 }
